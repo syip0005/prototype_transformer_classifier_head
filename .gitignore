@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+notebook/
+__pycache__/
+temp test.ipynb
+wandb/
+.idea/
+
+# except for
+!data/dataset_loader.py
